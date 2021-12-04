@@ -1,0 +1,2 @@
+# Election-decentralized-application-DAPP-on-the-Ethereum-Network-Blockchain-intern-
+It is a technology used to over come the manipulation that under goes during the offline voting system. Through blockchain online voting system no data will be updated by outsiders although the information is decentralized. And all the data is being stored in a public ledger. Advantages are speed and accuracy, reduce cost, security, transparency and traceability.
