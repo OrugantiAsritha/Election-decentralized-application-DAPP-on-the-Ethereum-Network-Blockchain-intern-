@@ -1,4 +1,4 @@
-# 🗳️ Election - DAPP Tutorial
+# 🗳️ Election - DAPP 
 
 Build your first decentralized application (Dapp) on the Ethereum blockchain with this detailed tutorial!
 
